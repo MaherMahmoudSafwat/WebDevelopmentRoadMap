@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\bin\Debug\net8.0\WritingToConsole.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\bin\Debug\net8.0\WritingToConsole.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\bin\Debug\net8.0\WritingToConsole.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\bin\Debug\net8.0\WritingToConsole.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\bin\Debug\net8.0\WritingToConsole.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\refint\WritingToConsole.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\WritingToConsole.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\4-WritingToConsole\WritingToConsole\WritingToConsole\obj\Debug\net8.0\ref\WritingToConsole.dll
