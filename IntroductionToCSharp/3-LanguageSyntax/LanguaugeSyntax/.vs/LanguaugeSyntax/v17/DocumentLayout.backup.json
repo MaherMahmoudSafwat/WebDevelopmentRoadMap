@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maher\\Desktop\\C#\\3-LanguageSyntax\\LanguaugeSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E213E2D6-D210-4329-8EFA-10878A005F93}|LanguaugeSyntax\\LanguaugeSyntax.csproj|c:\\users\\maher\\desktop\\c#\\3-languagesyntax\\languaugesyntax\\languaugesyntax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E213E2D6-D210-4329-8EFA-10878A005F93}|LanguaugeSyntax\\LanguaugeSyntax.csproj|solutionrelative:languaugesyntax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\Desktop\\C#\\3-LanguageSyntax\\LanguaugeSyntax\\LanguaugeSyntax\\Program.cs",
+              "RelativeDocumentMoniker": "LanguaugeSyntax\\Program.cs",
+              "ToolTip": "C:\\Users\\maher\\Desktop\\C#\\3-LanguageSyntax\\LanguaugeSyntax\\LanguaugeSyntax\\Program.cs",
+              "RelativeToolTip": "LanguaugeSyntax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:45:10.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
