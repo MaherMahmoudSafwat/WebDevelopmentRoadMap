@@ -1,0 +1,16 @@
+Console App vs Class Library:
+Console App:
+
+Creates an executable (.exe).
+Runs in a console/terminal window.
+Has a Main method (entry point) and executes independently.
+Class Library:
+
+Creates a library (.dll).
+No entry point – cannot run on its own.
+Provides reusable code (classes, methods) for other apps to use.
+Key Difference:
+
+Console App = Standalone program.
+Class Library = Reusable component for other projects.
+
