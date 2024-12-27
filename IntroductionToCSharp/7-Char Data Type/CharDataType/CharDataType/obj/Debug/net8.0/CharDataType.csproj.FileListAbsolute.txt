@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\bin\Debug\net8.0\CharDataType.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\bin\Debug\net8.0\CharDataType.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\bin\Debug\net8.0\CharDataType.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\bin\Debug\net8.0\CharDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\bin\Debug\net8.0\CharDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\refint\CharDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\CharDataType.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\7-Char Data Type\CharDataType\CharDataType\obj\Debug\net8.0\ref\CharDataType.dll
