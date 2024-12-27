@@ -43,6 +43,7 @@
             string name = "John Doe";
             Console.WriteLine(name[0]);
             Console.WriteLine(name);
+            //String Template
             //String Interpolation in C# is a way to construct strings using placeholders.
             string name1 = "Maher Mahmoud Safwat";
             //$ is used to write the variable value in the string found in the placeholders and it is called string interpolation
