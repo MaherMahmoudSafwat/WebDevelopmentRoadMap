@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\bin\Debug\net8.0\ArthimeticOperatos.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\bin\Debug\net8.0\ArthimeticOperatos.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\bin\Debug\net8.0\ArthimeticOperatos.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\bin\Debug\net8.0\ArthimeticOperatos.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\bin\Debug\net8.0\ArthimeticOperatos.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\refint\ArthimeticOperatos.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ArthimeticOperatos.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\11-ArithemticOperators\ArthimeticOperatos\ArthimeticOperatos\obj\Debug\net8.0\ref\ArthimeticOperatos.dll
