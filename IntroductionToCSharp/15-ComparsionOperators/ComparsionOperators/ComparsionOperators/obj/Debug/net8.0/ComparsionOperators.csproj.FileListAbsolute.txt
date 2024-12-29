@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\bin\Debug\net8.0\ComparsionOperators.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\bin\Debug\net8.0\ComparsionOperators.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\bin\Debug\net8.0\ComparsionOperators.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\bin\Debug\net8.0\ComparsionOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\bin\Debug\net8.0\ComparsionOperators.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\refint\ComparsionOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ComparsionOperators.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\15-ComparsionOperators\ComparsionOperators\ComparsionOperators\obj\Debug\net8.0\ref\ComparsionOperators.dll
