@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\refint\AssignmentOperators.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\13-AssignmentOperators\AssignmentOperators\obj\Debug\net8.0\ref\AssignmentOperators.dll
