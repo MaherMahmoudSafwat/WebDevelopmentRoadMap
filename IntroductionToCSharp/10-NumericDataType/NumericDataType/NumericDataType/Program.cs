@@ -151,6 +151,16 @@
             Console.WriteLine($"Size of decimal: {sizeof(decimal)}");
             Console.WriteLine($"Min Value of decimal: {decimal.MinValue}");
             Console.WriteLine($"Max Value of decimal: {decimal.MaxValue}");
+
+            //1_000_000 is a valid integer Where you can use underscore to separate digits in numeric literals.
+            int OneMillion = 1_000_000;
+            Console.WriteLine(OneMillion);
+            //to print 1,000,000 in screen you can use below code 
+            //N0 is a standard numeric format string that represents a number with a comma as a thousands separator.
+            //where N is a numeric format string that is used to format numeric values.
+            //0 is a digit placeholder that specifies the desired number of digits to display after the decimal point.
+            Console.WriteLine(OneMillion.ToString("N0"));//1,000,000
+
         }
     }
 }
