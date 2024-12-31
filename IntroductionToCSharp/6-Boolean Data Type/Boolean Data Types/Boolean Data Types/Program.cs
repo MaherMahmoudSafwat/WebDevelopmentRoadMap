@@ -39,6 +39,12 @@
             Result2 = true;
             Result3 = Result1 ^ Result2;
             Console.WriteLine(Result3);//false
+            int Total = 900;
+            int VipThershold = 1000;
+            //Ternary Operator in general is used to check a condition and return a value based on the condition
+            bool IsVip = (Total >= VipThershold) ? true:false;
+            int Discount = IsVip ? 10 : 0;
+            Console.WriteLine(Discount);
         }
     }
 }
