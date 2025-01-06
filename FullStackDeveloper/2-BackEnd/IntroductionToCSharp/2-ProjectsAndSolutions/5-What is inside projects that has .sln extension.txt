@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundementals.ConsoleApp1", "CSharpFundementals\CSharpFundementals.ConsoleApp1.csproj", "{46CBDD0E-7847-4483-BF5B-D6C0B0C1BB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CBDD0E-7847-4483-BF5B-D6C0B0C1BB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CBDD0E-7847-4483-BF5B-D6C0B0C1BB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CBDD0E-7847-4483-BF5B-D6C0B0C1BB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CBDD0E-7847-4483-BF5B-D6C0B0C1BB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+This is a Visual Studio solution file (.sln).
+
+Purpose:
+It organizes and manages multiple projects within a solution.
+Specifies project paths, configurations (Debug/Release), and Visual Studio versions.
+Links the solution to the .csproj (C# project) files.
+Key Points:
+VisualStudioVersion – Defines the version of Visual Studio used.
+Project Section – Lists each project in the solution by name and GUID.
+Configurations – Describes build settings (Debug/Release) for each project.
+In short, this file acts as a map that tells Visual Studio how to load and build the entire solution.

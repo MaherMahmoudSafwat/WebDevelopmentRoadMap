@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\bin\Debug\net8.0\DebuggerBasics.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\bin\Debug\net8.0\DebuggerBasics.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\bin\Debug\net8.0\DebuggerBasics.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\bin\Debug\net8.0\DebuggerBasics.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\bin\Debug\net8.0\DebuggerBasics.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\refint\DebuggerBasics.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\DebuggerBasics.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\18-DebuggerBasics\DebuggerBasics\DebuggerBasics\obj\Debug\net8.0\ref\DebuggerBasics.dll

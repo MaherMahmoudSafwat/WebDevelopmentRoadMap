@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\bin\Debug\net8.0\LanguaugeSyntax.exe
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\bin\Debug\net8.0\LanguaugeSyntax.deps.json
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\bin\Debug\net8.0\LanguaugeSyntax.runtimeconfig.json
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\bin\Debug\net8.0\LanguaugeSyntax.dll
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\bin\Debug\net8.0\LanguaugeSyntax.pdb
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.sourcelink.json
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.dll
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\refint\LanguaugeSyntax.dll
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.pdb
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\LanguaugeSyntax.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\3-LanguageSyntax\LanguaugeSyntax\LanguaugeSyntax\obj\Debug\net8.0\ref\LanguaugeSyntax.dll

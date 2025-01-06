@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\bin\Debug\net8.0\RangesAndIndices.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\bin\Debug\net8.0\RangesAndIndices.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\bin\Debug\net8.0\RangesAndIndices.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\bin\Debug\net8.0\RangesAndIndices.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\bin\Debug\net8.0\RangesAndIndices.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\refint\RangesAndIndices.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\RangesAndIndices.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\28-Ranges And Indices\RangesAndIndices\RangesAndIndices\obj\Debug\net8.0\ref\RangesAndIndices.dll

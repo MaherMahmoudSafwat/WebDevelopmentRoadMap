@@ -1,0 +1,14 @@
+1-C# Fundementals :- Link ---> https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI
+2-C# OOP :- Link ---> https://www.youtube.com/watch?v=T9DAwNXggPI&list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5
+StopPoint :- طب تطبق مشاريع عليها منين
+ده مشروع CRUD بسيط
+ https://www.youtube.com/playlist...
+و دي مشروع كبير educational management system و ده الريبو بتاعه علي github
+https://github.com/.../Educational-Management-System-OOP...
+
+و دول 3 مشاريع علي oop كمان موجودين في Sheet بكل تفاصيلهم https://drive.google.com/.../1G523fKsRp6bNCzt...
+3-C# Advanced :- Link ---> https://www.youtube.com/watch?v=g5lx0l7ikaQ&list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY
+4-C# Basic DataStructures and Algorithms :- https://www.youtube.com/watch?v=yURC-RG-iEc&list=PLoRh0POuk1RxQxV7yJobKgLibdKp84LFG
+5-Sql DataBase.
+6-Mastering C# :- 
+https://www.youtube.com/playlist...

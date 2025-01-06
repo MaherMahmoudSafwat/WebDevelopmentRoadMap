@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\bin\Debug\net8.0\NumericDataType.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\bin\Debug\net8.0\NumericDataType.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\bin\Debug\net8.0\NumericDataType.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\bin\Debug\net8.0\NumericDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\bin\Debug\net8.0\NumericDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\refint\NumericDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\NumericDataType.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\10-NumericDataType\NumericDataType\NumericDataType\obj\Debug\net8.0\ref\NumericDataType.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maher\\Desktop\\C#\\CSharpFundementals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC54414-098E-4331-AF26-79C4DCB938EF}|CSharpFundementals\\CSharpFundementals.csproj|c:\\users\\maher\\desktop\\c#\\csharpfundementals\\csharpfundementals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC54414-098E-4331-AF26-79C4DCB938EF}|CSharpFundementals\\CSharpFundementals.csproj|solutionrelative:csharpfundementals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maher\\Desktop\\C#\\CSharpFundementals\\CSharpFundementals\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpFundementals\\Program.cs",
+              "ToolTip": "C:\\Users\\maher\\Desktop\\C#\\CSharpFundementals\\CSharpFundementals\\Program.cs",
+              "RelativeToolTip": "CSharpFundementals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:19:16.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

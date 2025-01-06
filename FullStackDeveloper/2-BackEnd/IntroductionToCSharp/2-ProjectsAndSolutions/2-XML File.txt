@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+This is a C# project file (.csproj) for a .NET application. Here's a brief breakdown:
+
+<Project Sdk="Microsoft.NET.Sdk"> – Specifies the project uses the .NET SDK, providing tools and templates for building .NET apps.
+
+<OutputType>Exe</OutputType> – Indicates the project builds an executable (.exe). If set to Library, it builds a .dll instead.
+
+<TargetFramework>net8.0</TargetFramework> – Targets .NET 8.0 for compatibility and features.
+
+<ImplicitUsings>enable</ImplicitUsings> – Automatically includes common using directives, reducing boilerplate code.
+
+<Nullable>enable</Nullable> – Enables nullable reference types, helping catch potential null issues at compile time.
+
+This file configures how the .NET project compiles and runs.
+

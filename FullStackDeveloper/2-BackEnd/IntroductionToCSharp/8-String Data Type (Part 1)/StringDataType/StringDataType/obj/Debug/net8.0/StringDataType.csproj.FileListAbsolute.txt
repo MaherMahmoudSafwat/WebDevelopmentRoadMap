@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\bin\Debug\net8.0\StringDataType.exe
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\bin\Debug\net8.0\StringDataType.deps.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\bin\Debug\net8.0\StringDataType.runtimeconfig.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\bin\Debug\net8.0\StringDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\bin\Debug\net8.0\StringDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.sourcelink.json
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\refint\StringDataType.dll
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.pdb
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\StringDataType.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\IntroductionToCSharp\8-String Data Type (Part 1)\StringDataType\StringDataType\obj\Debug\net8.0\ref\StringDataType.dll

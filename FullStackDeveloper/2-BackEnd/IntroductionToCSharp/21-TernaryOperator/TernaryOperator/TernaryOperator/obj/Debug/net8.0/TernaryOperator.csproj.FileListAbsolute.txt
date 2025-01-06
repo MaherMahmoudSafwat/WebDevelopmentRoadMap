@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\refint\TernaryOperator.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\21-TernaryOperator\TernaryOperator\TernaryOperator\obj\Debug\net8.0\ref\TernaryOperator.dll

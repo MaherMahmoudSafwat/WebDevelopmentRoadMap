@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\bin\Debug\net8.0\Comments.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\bin\Debug\net8.0\Comments.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\bin\Debug\net8.0\Comments.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\bin\Debug\net8.0\Comments.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\refint\Comments.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\31-Comments\Comments\Comments\obj\Debug\net8.0\ref\Comments.dll

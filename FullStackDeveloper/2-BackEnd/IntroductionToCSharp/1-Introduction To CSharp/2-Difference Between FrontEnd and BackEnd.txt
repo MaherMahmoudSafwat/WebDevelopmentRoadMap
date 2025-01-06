@@ -1,0 +1,24 @@
+Frontend vs Backend – Simple Breakdown:
+Frontend (Client-Side):
+What it is:
+Everything the user sees and interacts with in a web application.
+Technologies:
+HTML, CSS, JavaScript
+Frameworks/Libraries: React, Angular, Vue.js
+Examples:
+Buttons, forms, layouts, animations, and responsive designs.
+Backend (Server-Side):
+What it is:
+The part that works behind the scenes – handles data, logic, and server operations.
+Technologies:
+Node.js, Python (Django/Flask), Java (Spring), C# (ASP.NET), PHP
+Databases: MySQL, PostgreSQL, MongoDB
+Examples:
+Authentication, APIs, database interactions, file handling.
+Key Differences:
+Aspect	Frontend	Backend
+Focus	User interface (UI)	Server, databases, and logic
+Languages	HTML, CSS, JS	Python, Java, Node.js, PHP
+Output	Visual elements	Data, API responses
+Interaction	Direct user interaction	Indirect, handles user requests
+Examples	Webpage layout, animations	User login, payment processing

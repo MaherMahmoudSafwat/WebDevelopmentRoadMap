@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\bin\Debug\net8.0\ParseStrings.exe
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\bin\Debug\net8.0\ParseStrings.deps.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\bin\Debug\net8.0\ParseStrings.runtimeconfig.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\bin\Debug\net8.0\ParseStrings.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\bin\Debug\net8.0\ParseStrings.pdb
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.AssemblyInfo.cs
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.sourcelink.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\refint\ParseStrings.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.pdb
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ParseStrings.genruntimeconfig.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\IntroductionToCSharp\16-ParseStrings\ParseStrings\ParseStrings\obj\Debug\net8.0\ref\ParseStrings.dll

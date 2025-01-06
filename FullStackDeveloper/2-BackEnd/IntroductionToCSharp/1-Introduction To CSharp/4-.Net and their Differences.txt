@@ -1,0 +1,58 @@
+Types of .NET and Their Differences
+1. .NET Framework (2002)
+Description:
+The original Windows-only implementation of .NET.
+Used for building desktop, web, and server applications.
+Languages: C#, VB.NET, F#
+Key Technologies:
+ASP.NET (Web), WPF (Desktop), WinForms, WCF (Services)
+Limitations:
+Windows-exclusive
+Not actively developed for new projects (replaced by .NET Core/.NET).
+2. .NET Core (2016)
+Description:
+A cross-platform (Windows, Linux, macOS) rewrite of .NET Framework.
+Designed for high performance and scalability.
+Languages: C#, F#
+Key Technologies:
+ASP.NET Core, Entity Framework Core, Blazor
+Advantages:
+Lightweight, modular, open-source
+Ideal for microservices, cloud apps.
+End of Life:
+Merged into .NET 5 and later versions.
+3. .NET (5 and Later) (2020 - Present)
+Description:
+Unified platform – merges .NET Core and .NET Framework features.
+Cross-platform, high performance, open-source.
+Languages: C#, F#, VB.NET (limited for desktop)
+Key Technologies:
+ASP.NET Core, MAUI (Mobile/Desktop UI), Blazor
+Advantages:
+One platform for web, desktop, mobile, cloud, and IoT.
+4. .NET Standard (2016 - Deprecated)
+Description:
+A specification (not a framework) to ensure compatibility between .NET Framework, .NET Core, and Xamarin.
+Goal:
+Write libraries that work across all .NET implementations.
+Replaced By:
+.NET 5+ (standardized platform).
+5. Mono/Xamarin (2004)
+Description:
+Mono: Early open-source .NET implementation (used in Linux).
+Xamarin: Built on Mono, used for mobile development (iOS/Android).
+Languages: C#, F#
+Current Status:
+Merged into .NET MAUI (Mobile and Desktop UI).
+Key Differences:
+Type	Platform	Focus Area	Status
+.NET Framework	Windows Only	Desktop, Web, Enterprise	Legacy (No new features)
+.NET Core	Cross-platform	Modern Web, Cloud, Microservices	Merged into .NET
+.NET (5+)	Cross-platform	Unified platform (Web, Desktop, Mobile)	Actively developed
+Xamarin	iOS, Android	Mobile apps	Replaced by MAUI
+.NET Standard	Multi-platform	Library compatibility	Deprecated
+History Overview:
+2002: .NET Framework 1.0 (Windows desktop apps)
+2016: .NET Core (cross-platform, faster, modular)
+2020: .NET 5 – Unified platform for all apps
+2021+: .NET 6, 7, 8 – Continuous improvements with each release

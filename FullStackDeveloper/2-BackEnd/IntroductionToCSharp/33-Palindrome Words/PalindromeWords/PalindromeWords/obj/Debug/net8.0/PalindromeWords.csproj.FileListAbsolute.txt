@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\bin\Debug\net8.0\PalindromeWords.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\bin\Debug\net8.0\PalindromeWords.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\bin\Debug\net8.0\PalindromeWords.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\bin\Debug\net8.0\PalindromeWords.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\bin\Debug\net8.0\PalindromeWords.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\refint\PalindromeWords.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\PalindromeWords.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\33-Palindrome Words\PalindromeWords\PalindromeWords\obj\Debug\net8.0\ref\PalindromeWords.dll

@@ -1,0 +1,16 @@
+Difference between .exe and .dll:
+.exe (Executable):
+
+A standalone application that can run on its own.
+When you double-click, it starts a process.
+Example: notepad.exe launches Notepad.
+.dll (Dynamic Link Library):
+
+A library of code used by other applications.
+Cannot run on its own – it must be loaded by an .exe or another program.
+Example: user32.dll provides Windows UI functions.
+Key Difference:
+.exe = Entry point for execution.
+.dll = Shared code used by multiple programs.
+
+A .dll is more like a toolbox or library – it contains reusable functions, classes, and resources that other programs can call.

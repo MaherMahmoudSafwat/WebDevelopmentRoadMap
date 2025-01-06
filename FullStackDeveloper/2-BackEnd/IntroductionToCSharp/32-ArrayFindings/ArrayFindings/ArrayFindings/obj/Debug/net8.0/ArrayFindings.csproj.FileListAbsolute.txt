@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.AssemblyInfo.cs
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.sourcelink.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\bin\Debug\net8.0\ArrayFindings.exe
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\bin\Debug\net8.0\ArrayFindings.deps.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\bin\Debug\net8.0\ArrayFindings.runtimeconfig.json
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\bin\Debug\net8.0\ArrayFindings.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\bin\Debug\net8.0\ArrayFindings.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\refint\ArrayFindings.dll
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.pdb
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ArrayFindings.genruntimeconfig.cache
+C:\Users\maher\Desktop\C#\WebDevelopmentRoadMap\IntroductionToCSharp\32-ArrayFindings\ArrayFindings\ArrayFindings\obj\Debug\net8.0\ref\ArrayFindings.dll
