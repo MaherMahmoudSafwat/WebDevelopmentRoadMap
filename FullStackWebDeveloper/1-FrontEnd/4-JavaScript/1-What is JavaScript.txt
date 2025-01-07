@@ -1,0 +1,10 @@
+JavaScript is a programming language used to make websites interactive.
+
+It runs in web browsers and allows you to:
+
+Add dynamic behavior (e.g., show/hide content).
+Respond to user actions (like clicking buttons or submitting forms).
+Update content without reloading the page (for example, live search results).
+JavaScript works alongside HTML (for structure) and CSS (for styling) to create modern, responsive websites.
+
+In short, JavaScript makes websites more interactive, engaging, and functional.
