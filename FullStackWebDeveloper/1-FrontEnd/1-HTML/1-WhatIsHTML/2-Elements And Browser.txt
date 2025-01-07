@@ -1,0 +1,34 @@
+View Page Source vs Inspect – Explained Simply
+When you visit a website, the browser downloads code (HTML, CSS, JavaScript) from the server to display the page. There are two ways to see this code:
+
+1. View Page Source
+What it Shows:
+The original HTML and CSS that the browser receives before JavaScript changes anything.
+
+How to Access:
+
+Right-click anywhere on the page.
+Select View Page Source.
+A new tab opens showing the raw HTML/CSS.
+Use Case:
+
+Good for seeing the basic structure of the site.
+Useful for learning how a page is built.
+🔹 Example:
+Think of it as reading the blueprint of a house before it is built.
+
+2. Inspect (Developer Tools)
+What it Shows:
+The live, current version of the webpage. It reflects changes made by JavaScript or dynamic content loaded after the page initially loads.
+
+How to Access:
+
+Right-click on any part of the website.
+Select Inspect (or press F12 or Ctrl + Shift + I).
+A panel opens showing the DOM (Document Object Model), which is the page as it exists right now.
+Use Case:
+
+Lets you edit HTML/CSS in real-time to see how the page changes.
+Helpful for debugging, testing layouts, and modifying styles.
+🔹 Example:
+It’s like inspecting the house after it is built and decorated.
