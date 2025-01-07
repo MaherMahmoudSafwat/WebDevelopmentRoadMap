@@ -1,0 +1,9 @@
+-Download The Following in VS-Code   
+1-Bracket Pair Colorizer 2 
+2-EditorConfig for VS Code
+3-ESLint
+4-indent-rainbow
+5-Live Server
+6-Material Icon Theme
+7-Path intellisense
+8-Prettier-Code formatter
