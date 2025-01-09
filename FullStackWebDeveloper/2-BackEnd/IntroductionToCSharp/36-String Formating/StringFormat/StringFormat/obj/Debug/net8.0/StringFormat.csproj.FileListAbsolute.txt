@@ -1,0 +1,15 @@
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\bin\Debug\net8.0\StringFormat.exe
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\bin\Debug\net8.0\StringFormat.deps.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\bin\Debug\net8.0\StringFormat.runtimeconfig.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\bin\Debug\net8.0\StringFormat.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\bin\Debug\net8.0\StringFormat.pdb
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.AssemblyInfoInputs.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.AssemblyInfo.cs
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.sourcelink.json
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\refint\StringFormat.dll
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.pdb
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\StringFormat.genruntimeconfig.cache
+C:\Users\maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\IntroductionToCSharp\36-String Formating\StringFormat\StringFormat\obj\Debug\net8.0\ref\StringFormat.dll
