@@ -24,7 +24,7 @@ public class Main {
         System.out.println(j+++j+5);//18
         System.out.println(++j+j+5);//21
         //j+++++j is not allowed n java.
-        System.out.println(j+++(++j)+5);//23 as j++ = 8 and ++j since j is now 9 ++j makes it now 10 so 8+10+5 is equals 23 
+        System.out.println(j+++(++j)+5);//23 as j++ = 8 and ++j since j is now 9 ++j makes it now 10 so 8+10+5 is equals 23
 
         //Everything we said about post increment and pre-increment applied to post decrement and pre-decrement
         //Post Decrement i--
