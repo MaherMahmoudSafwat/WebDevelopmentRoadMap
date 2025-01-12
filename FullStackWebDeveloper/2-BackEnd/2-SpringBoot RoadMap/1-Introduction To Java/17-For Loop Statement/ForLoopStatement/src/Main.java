@@ -5,7 +5,7 @@ public class Main
     public static void main(String[] args)
     {
         //All the following are valid for loops.
-       /* for(int i = 0; i<10; i++)
+        for(int i = 0; i<10; i++)
         {
             System.out.println(i);
         }
@@ -30,7 +30,7 @@ public class Main
         for (int j = 1; j++<10;)
         {
             System.out.println(j);
-        }*/
+        }
         Scanner Input = new Scanner(System.in);
         for(int l = 0; l < 5; l++)
         {
