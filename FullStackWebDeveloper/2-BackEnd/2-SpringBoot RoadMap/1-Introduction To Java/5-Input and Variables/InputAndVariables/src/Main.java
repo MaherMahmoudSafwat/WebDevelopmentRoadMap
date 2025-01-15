@@ -6,6 +6,7 @@ public class Main {
         //System.in means that the System reads Input from user.
         Scanner Input  = new Scanner(System.in);
         System.out.println("Please enter Your FirstName:");
+        int x = y = z; 
         String Fname; //Declaration to the Variable.
         Fname = "";   //Assignment to the Variable.
         String Name = "";//initalization
