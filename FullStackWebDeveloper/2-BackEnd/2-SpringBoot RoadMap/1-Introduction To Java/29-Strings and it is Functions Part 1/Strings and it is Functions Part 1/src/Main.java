@@ -9,6 +9,6 @@ public class Main {
         //To print a substring in from a string
         System.out.println(S1.substring(2,4));
         System.out.println(S1.substring(1));
-        Character.
+
     }
 }
