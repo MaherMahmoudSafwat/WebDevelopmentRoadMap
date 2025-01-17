@@ -162,6 +162,17 @@ Procedural Programming Example : Program to Calculate Average of Array Items.
 -Object-Oriented Programming(OOP) is a programming paradigm based on the concept of objects.
 Object : is a thing (Tangible - Intangible). 
 
+Examples of Objects :-
+Objects in Student housing management Program.
+Student Housing Environment.
+-Student -Room -Building 
+-Furniture 
+
+Objects in College Management Program.
+College Environment. 
+-Student -Course -Teacher
+-Class -Grading Report
+
 Examples of an Objects :- Car
 
 Properties: color, model, speed
@@ -174,5 +185,4 @@ Book
 
 Properties: title, author, pages
 Methods: openBook(), readPage(), closeBook()
-
 
