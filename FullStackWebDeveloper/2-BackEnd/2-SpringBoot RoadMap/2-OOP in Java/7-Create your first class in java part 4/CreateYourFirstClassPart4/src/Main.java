@@ -1,27 +1,33 @@
 import java.net.CacheRequest;
+import java.util.Arrays;
 
 public class Main
 {
+    public static int minimumSteps(int[] numbers, int k) {
+        int Count = 0;
+        int Counter = 0;
+        Arrays.sort(numbers);
+        for(int i = 1; i<numbers.length; i++)
+        {
+            if(i==1)
+            {
+                Count+=numbers[i-1]+numbers[i];
+                if(Count >= k)
+                    return Counter;
+            }
+            else
+            {
+                Count+=numbers[i];
+                if(Count >= k)
+                    return ++Counter;
+            }
+            Counter++;
+        }
+        return 0;
+    }
     public static void main(String[] args)
     {
-        //Reference Variable
-        //Reference Variable can be initialized in more than one line typically in two lines.
-        //The variable car1 is a reference variable of type Car, meaning it can hold the reference to an object of type Car.
-        Car car1;
-        //This line is used to create an object in heap and store the address reference to car1
-        car1 = new Car();
-
-        car1.setName("Toyota");
-        car1.setYearModel(2017);
-
-        System.out.println("car1 name is " + car1.getName());
-        System.out.println("car1 year model is " + car1.getYearModel());
-
-        //Reference Variable can initialized in only one line.
-        Car car2 = new Car();
-        car2.setName("Hyunadi");
-        car2.setYearModel(-1997);
-        System.out.println("car2 name is " + car2.getName());
-        System.out.println("car2 YearModel is " + car2.getYearModel());
+        int [] Array = {19,98,69,28,75,45,17,98,67};
+        System.out.println(minimumSteps(Array,464));
     }
 }
