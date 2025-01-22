@@ -131,4 +131,10 @@ A Teacher is a Person, so you can use a Teacher object wherever a Person object 
 Conclusion:
 The "is-a" relationship is a fundamental concept in inheritance in OOP. It describes how subclasses inherit the behavior and properties of a superclass, making the subclass a more specific type of the superclass. This relationship allows for polymorphism, code reusability, and extensibility in OOP systems, promoting cleaner, more efficient, and maintainable code.
 
+In inheritance, the names of the classes are typically referred to as:
 
+Parent Class: Superclass, Base Class, or Parent Class.
+Child Class: Subclass, Derived Class, or Child Class.
+
+To make an inheritance you make the following :-
+public class Employee extends Person {} 
