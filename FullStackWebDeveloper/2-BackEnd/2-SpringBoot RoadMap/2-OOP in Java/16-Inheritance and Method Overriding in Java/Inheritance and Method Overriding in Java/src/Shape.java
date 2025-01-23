@@ -48,54 +48,12 @@ public class Shape
     public void setDimensions(int dimensions) {
         Dimensions = dimensions;
     }
-}
-public class Rectangle extends Shape
-{
-    double Width;
-    Rectangle (double L, double P , double A, int D, double Width)
+
+    public void Print_All_Details()
     {
-        //Is not a good way of coding and bad use of Reusability.
-        /*
-        length = L;
-        perimeter = P;
-        Area = A;
-        Dimensions = D;
-        */
-
-        //Use Super to call the Constructor of the main class
-        super(L, P, A, D);
-
-        this.Width = Width;
-    }
-
-    public void setWidth(double width) {
-        Width = width;
-    }
-
-    public double getWidth() {
-        return Width;
-    }
-
-}
-public class Square extends Shape
-{
-    double Diagnols;
-
-    Square()
-    {
-        System.out.println("Hello There, I'm the Constructor of the Derived Class that is called Square.");
-    }
-    Square(double L, double A, double P, int D, double Diagnols)
-    {
-        super(L,A,P,D);
-        this.Diagnols = Diagnols;
-    }
-
-    public void setDiagnols(double diagnols) {
-        Diagnols = diagnols;
-    }
-
-    public double getDiagnols() {
-        return Diagnols;
+        System.out.println("Length is :- " + getLength());
+        System.out.println("Perimeter is :- " + getPerimeter());
+        System.out.println("Area is :- " + getArea());
+        System.out.println("Dimensions are :- " + getDimensions());
     }
 }
