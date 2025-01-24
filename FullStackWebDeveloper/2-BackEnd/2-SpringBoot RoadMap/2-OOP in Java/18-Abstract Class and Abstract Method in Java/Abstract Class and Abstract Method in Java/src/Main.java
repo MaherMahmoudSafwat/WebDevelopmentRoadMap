@@ -11,5 +11,7 @@ public class Main {
         Square S1 = new Square();
         S1.setLength(10);
         System.out.println(S1.getArea());
+
+        Shape M1 = new Square();//This is allowed as you create a reference variable that points to an object of type Square not Shape Class.
     }
 }
