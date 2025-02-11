@@ -81,3 +81,4 @@ Compile to IL: The C# compiler converts your code to Intermediate Language (IL),
 JIT Compilation: When you run your application, the CoreCLR JIT compiler converts IL to native machine code for the specific platform.
 Cross-Platform Execution: The CoreCLR abstracts platform-specific details, making the application work across Windows, Linux, macOS, and mobile platforms (via Xamarin/MAUI).
 This combination of IL code, JIT compilation, and CoreCLR is what makes C# truly cross-platform today, enabling developers to create applications that run across a variety of platforms seamlessly.
+-You can use ildasm command in developer visual studio cmd command line prompt to see the il.
