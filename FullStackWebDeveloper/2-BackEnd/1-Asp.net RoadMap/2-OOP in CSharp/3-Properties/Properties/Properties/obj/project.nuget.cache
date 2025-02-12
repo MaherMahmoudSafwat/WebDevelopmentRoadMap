@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvd9n7d2DcQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\3-Properties\\Properties\\Properties\\Properties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maher\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.12\\microsoft.dotnet.ilcompiler.8.0.12.nupkg.sha512",
+    "C:\\Users\\Maher\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
+    "C:\\Users\\Maher\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.12\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
