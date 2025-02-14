@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\6-Constants_Read-Only\\Constant_Read-Only\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1532FF4-B6A9-4D88-AF67-298D88CD2809}|Constant_Read-Only\\Constant_Read-Only.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\6-constants_read-only\\constant_read-only\\constant_read-only\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1532FF4-B6A9-4D88-AF67-298D88CD2809}|Constant_Read-Only\\Constant_Read-Only.csproj|solutionrelative:constant_read-only\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\6-Constants_Read-Only\\Constant_Read-Only\\Constant_Read-Only\\Program.cs",
+              "RelativeDocumentMoniker": "Constant_Read-Only\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\6-Constants_Read-Only\\Constant_Read-Only\\Constant_Read-Only\\Program.cs",
+              "RelativeToolTip": "Constant_Read-Only\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:46:05.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
