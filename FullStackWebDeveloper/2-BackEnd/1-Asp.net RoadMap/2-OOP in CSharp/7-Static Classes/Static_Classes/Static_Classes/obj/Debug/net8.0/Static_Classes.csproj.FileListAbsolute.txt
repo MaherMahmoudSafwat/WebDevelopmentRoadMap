@@ -1,0 +1,15 @@
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\bin\Debug\net8.0\Static_Classes.exe
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\bin\Debug\net8.0\Static_Classes.deps.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\bin\Debug\net8.0\Static_Classes.runtimeconfig.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\bin\Debug\net8.0\Static_Classes.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\bin\Debug\net8.0\Static_Classes.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.AssemblyInfoInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.AssemblyInfo.cs
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.sourcelink.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\refint\Static_Classes.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\Static_Classes.genruntimeconfig.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\7-Static Classes\Static_Classes\Static_Classes\obj\Debug\net8.0\ref\Static_Classes.dll
