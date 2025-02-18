@@ -1,0 +1,15 @@
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\bin\Debug\net8.0\File system.exe
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\bin\Debug\net8.0\File system.deps.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\bin\Debug\net8.0\File system.runtimeconfig.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\bin\Debug\net8.0\File system.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\bin\Debug\net8.0\File system.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.AssemblyInfoInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.AssemblyInfo.cs
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.csproj.CoreCompileInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.sourcelink.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\refint\File system.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\File system.genruntimeconfig.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\14-File system command line\File system\File system\obj\Debug\net8.0\ref\File system.dll
