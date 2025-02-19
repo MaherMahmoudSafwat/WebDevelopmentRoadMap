@@ -4,7 +4,7 @@ public class main
 {
     public static void Main(string[] args)
     {
-        Man man = new Man(13) { Address = "Faisal"};
+        Man man = new Man(13) { Address = "Faisal"};//Object Initializer.
         man.Name = "Maher";
         Console.WriteLine(man.Name);
         man.Name = "Laptop";
