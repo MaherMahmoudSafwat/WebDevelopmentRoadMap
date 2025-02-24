@@ -35,6 +35,8 @@ namespace CommandLine
             string FullPath = Program.FullPathName.Substring(0,Program.FullPathName.Length-1) + "\\" + Path.ToString();
             if (File.Exists(FullPath))
             {
+                GC.Collect();
+                GC.WaitForPendingFinalizers();
                 File.Delete(FullPath);
                 Console.WriteLine("File has bee deleted Successfully.");
             }
@@ -48,6 +50,8 @@ namespace CommandLine
             string FullPath = Program.FullPathName.Substring(0, Program.FullPathName.Length - 1) + "\\" + Path.ToString();
             if (Directory.Exists(FullPath))
             {
+                GC.Collect();
+                GC.WaitForPendingFinalizers();
                 Directory.Delete(FullPath);
                 Console.WriteLine("Directory has bee deleted Successfully.");
             }

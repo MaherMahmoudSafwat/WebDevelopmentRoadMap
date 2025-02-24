@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommandLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95e4a163330f439fe9ad3bab73c0645a9f68fec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168722ccc8fc15cc80837dd773912e27cc984e19")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommandLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommandLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

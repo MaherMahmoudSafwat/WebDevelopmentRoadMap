@@ -13,7 +13,7 @@ namespace CommandLine
         public static string ExtractCommand(string FullUserPath)
         {
             FullUserPath = FullUserPath.Trim();
-            string Token = "";
+             string Token = "";
             for(int j = 0;j<FullUserPath.Length;j++)
             {
                 if (FullUserPath[j] == ' ')
