@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\14-File system command line\\File system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC645E05-B4A9-4DE0-87B9-F22FF0AB2660}|File system\\File system.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\14-file system command line\\file system\\file system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC645E05-B4A9-4DE0-87B9-F22FF0AB2660}|File system\\File system.csproj|solutionrelative:file system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8b6d3af9-7fef-4d73-80b1-9521826a605e",
+        "Display": 0,
+        "X": -112,
+        "Y": 111,
+        "Width": 1511,
+        "Height": 601,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\14-File system command line\\File system\\File system\\Program.cs",
+              "RelativeDocumentMoniker": "File system\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\14-File system command line\\File system\\File system\\Program.cs",
+              "RelativeToolTip": "File system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:35:01.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

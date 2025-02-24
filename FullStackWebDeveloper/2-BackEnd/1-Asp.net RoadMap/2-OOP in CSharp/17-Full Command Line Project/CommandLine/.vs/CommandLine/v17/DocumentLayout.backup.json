@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\listcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\listcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\touchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\touchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\rmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\rmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\allcommandsmethodshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\allcommandsmethodshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\mkdircommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\mkdircommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\datecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\datecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\historycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\historycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\cdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\cdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\echocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\echocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\commandline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\commandline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\resetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\resetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\17-full command line project\\commandline\\commandline\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3C0692-D6DF-42DB-8090-5A6AC3883857}|CommandLine\\CommandLine.csproj|solutionrelative:commandline\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EchoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\EchoCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\EchoCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\EchoCommand.cs",
+              "RelativeToolTip": "CommandLine\\EchoCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:13:54.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommandLine",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CommandLine.csproj",
+              "RelativeDocumentMoniker": "CommandLine\\CommandLine.csproj",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CommandLine.csproj",
+              "RelativeToolTip": "CommandLine\\CommandLine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:29:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ListCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\ListCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ListCommand.cs",
+              "RelativeToolTip": "CommandLine\\ListCommand.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:06:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RmCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\RmCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\RmCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\RmCommand.cs",
+              "RelativeToolTip": "CommandLine\\RmCommand.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:54:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\DateCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\DateCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\DateCommand.cs",
+              "RelativeToolTip": "CommandLine\\DateCommand.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:45:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\HistoryCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\HistoryCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\HistoryCommand.cs",
+              "RelativeToolTip": "CommandLine\\HistoryCommand.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:31:55.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CdCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\CdCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CdCommand.cs",
+              "RelativeToolTip": "CommandLine\\CdCommand.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAI0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:16:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ResetCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\ResetCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ResetCommand.cs",
+              "RelativeToolTip": "CommandLine\\ResetCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:08:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClearCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ClearCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\ClearCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\ClearCommand.cs",
+              "RelativeToolTip": "CommandLine\\ClearCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:52:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MkdirCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\MkdirCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\MkdirCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\MkdirCommand.cs",
+              "RelativeToolTip": "CommandLine\\MkdirCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:20:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TouchCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\TouchCommand.cs",
+              "RelativeDocumentMoniker": "CommandLine\\TouchCommand.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\TouchCommand.cs",
+              "RelativeToolTip": "CommandLine\\TouchCommand.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwB4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:42:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Program.cs",
+              "RelativeDocumentMoniker": "CommandLine\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Program.cs",
+              "RelativeToolTip": "CommandLine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:31:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Utility.cs",
+              "RelativeDocumentMoniker": "CommandLine\\Utility.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Utility.cs",
+              "RelativeToolTip": "CommandLine\\Utility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:14:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Commands.cs",
+              "RelativeDocumentMoniker": "CommandLine\\Commands.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\Commands.cs",
+              "RelativeToolTip": "CommandLine\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:27:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllCommandsMethodsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\AllCommandsMethodsHandler.cs",
+              "RelativeDocumentMoniker": "CommandLine\\AllCommandsMethodsHandler.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\AllCommandsMethodsHandler.cs",
+              "RelativeToolTip": "CommandLine\\AllCommandsMethodsHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA0wCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:23:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CommandParser.cs",
+              "RelativeDocumentMoniker": "CommandLine\\CommandParser.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\17-Full Command Line Project\\CommandLine\\CommandLine\\CommandParser.cs",
+              "RelativeToolTip": "CommandLine\\CommandParser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:10:19.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

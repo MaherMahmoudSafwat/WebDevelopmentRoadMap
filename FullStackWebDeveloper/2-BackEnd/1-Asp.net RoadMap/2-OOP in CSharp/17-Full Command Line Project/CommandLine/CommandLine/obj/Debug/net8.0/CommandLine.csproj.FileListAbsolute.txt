@@ -1,0 +1,15 @@
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.exe
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.deps.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.runtimeconfig.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.AssemblyInfoInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.AssemblyInfo.cs
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.sourcelink.json
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\refint\CommandLine.dll
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.pdb
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\CommandLine.genruntimeconfig.cache
+C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\obj\Debug\net8.0\ref\CommandLine.dll

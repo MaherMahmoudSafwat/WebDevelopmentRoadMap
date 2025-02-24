@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CommandLine</id>
+    <version>1.0.0</version>
+    <authors>CommandLine</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="d95e4a163330f439fe9ad3bab73c0645a9f68fec" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.runtimeconfig.json" target="lib\net8.0\CommandLine.runtimeconfig.json" />
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\17-Full Command Line Project\CommandLine\CommandLine\bin\Debug\net8.0\CommandLine.dll" target="lib\net8.0\CommandLine.dll" />
+  </files>
+</package>
