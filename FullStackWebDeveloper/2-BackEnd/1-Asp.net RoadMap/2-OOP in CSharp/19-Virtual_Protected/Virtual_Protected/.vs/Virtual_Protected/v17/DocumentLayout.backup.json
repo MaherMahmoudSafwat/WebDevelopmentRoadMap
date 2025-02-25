@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\19-virtual_protected_member\\virtual_protected\\virtual_protected_member\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|solutionrelative:virtual_protected_member\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\19-virtual_protected_member\\virtual_protected\\virtual_protected_member\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|solutionrelative:virtual_protected_member\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\19-virtual_protected_member\\virtual_protected\\virtual_protected_member\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|solutionrelative:virtual_protected_member\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\19-virtual_protected_member\\virtual_protected\\virtual_protected_member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5670B-3584-4036-AFD2-F89267B24A8B}|Virtual_Protected_Member\\Virtual_Protected_Member.csproj|solutionrelative:virtual_protected_member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Shape.cs",
+              "RelativeDocumentMoniker": "Virtual_Protected_Member\\Shape.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Shape.cs",
+              "RelativeToolTip": "Virtual_Protected_Member\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:03:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Circle.cs",
+              "RelativeDocumentMoniker": "Virtual_Protected_Member\\Circle.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Circle.cs",
+              "RelativeToolTip": "Virtual_Protected_Member\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:03:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Virtual_Protected_Member\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Rectangle.cs",
+              "RelativeToolTip": "Virtual_Protected_Member\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:02:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Program.cs",
+              "RelativeDocumentMoniker": "Virtual_Protected_Member\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\19-Virtual_Protected_Member\\Virtual_Protected\\Virtual_Protected_Member\\Program.cs",
+              "RelativeToolTip": "Virtual_Protected_Member\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:57:55.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
