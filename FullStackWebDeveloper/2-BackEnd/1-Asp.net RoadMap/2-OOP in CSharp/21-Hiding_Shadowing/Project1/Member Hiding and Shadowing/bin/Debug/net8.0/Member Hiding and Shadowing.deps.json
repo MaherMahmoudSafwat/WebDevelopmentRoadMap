@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Member Hiding and Shadowing/1.0.0": {
+        "runtime": {
+          "Member Hiding and Shadowing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Member Hiding and Shadowing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
