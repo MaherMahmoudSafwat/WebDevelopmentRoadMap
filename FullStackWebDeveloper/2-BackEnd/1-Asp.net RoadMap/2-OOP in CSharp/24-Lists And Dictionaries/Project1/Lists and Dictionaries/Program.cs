@@ -70,6 +70,8 @@
             Dict.Add("Skype", "Caller");
             Dict.Add("Youtube", "Maher");
             Dict.Add("Facebook", "Readers");
+            if (Dict.TryGetValue("Facebook", out string NameValueString))
+                Console.WriteLine(NameValueString);
             foreach (KeyValuePair<string,string> i in Dict)
             {
                 Console.WriteLine($"key is {i.Key} and value is {i.Value}");

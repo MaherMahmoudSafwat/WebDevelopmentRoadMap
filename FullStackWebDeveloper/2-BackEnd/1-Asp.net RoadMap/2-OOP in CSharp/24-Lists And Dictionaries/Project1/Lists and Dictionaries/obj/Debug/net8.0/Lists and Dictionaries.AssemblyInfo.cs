@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lists and Dictionaries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa8372f337ec4bef633a826c40f07d57c424057")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036ba8e756722cd36d77adef2fb635b5b3d4a658")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lists and Dictionaries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lists and Dictionaries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
