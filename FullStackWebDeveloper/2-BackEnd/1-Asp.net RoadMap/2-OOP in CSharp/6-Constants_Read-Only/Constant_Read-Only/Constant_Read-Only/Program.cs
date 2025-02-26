@@ -25,8 +25,8 @@ namespace Constant_Read_Only
         static void Main(string[] args)
         {
             Console.WriteLine(Name);
-            //Name = "Samir"; Not allowd because Name is a Constant Variable.
-            //Address = "Faisal"; Not allowe because Address is a Readonly Variable. 
+            //Name = "Samir"; Not allowed because Name is a Constant Variable.
+            //Address = "Faisal"; Not allowed because Address is a Readonly Variable. 
             Console.WriteLine(Address);        
         }
     }
