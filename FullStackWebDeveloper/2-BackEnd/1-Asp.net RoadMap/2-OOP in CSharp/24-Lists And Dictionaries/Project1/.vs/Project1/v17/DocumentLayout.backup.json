@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\24-Lists And Dictionaries\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AF3210-5603-4BBD-9CD0-75892DDA018F}|Lists and Dictionaries\\Lists and Dictionaries.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\24-lists and dictionaries\\project1\\lists and dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AF3210-5603-4BBD-9CD0-75892DDA018F}|Lists and Dictionaries\\Lists and Dictionaries.csproj|solutionrelative:lists and dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\24-Lists And Dictionaries\\Project1\\Lists and Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Lists and Dictionaries\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\24-Lists And Dictionaries\\Project1\\Lists and Dictionaries\\Program.cs",
+              "RelativeToolTip": "Lists and Dictionaries\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:21:44.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
