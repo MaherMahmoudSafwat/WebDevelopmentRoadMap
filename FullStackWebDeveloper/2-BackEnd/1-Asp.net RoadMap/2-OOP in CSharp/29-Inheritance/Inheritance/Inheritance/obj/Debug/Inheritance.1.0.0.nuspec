@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Inheritance</id>
+    <version>1.0.0</version>
+    <authors>Inheritance</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6dd3e996624e067c9c0ca0aa0af18834819fff67" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\29-Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json" target="lib\net8.0\Inheritance.runtimeconfig.json" />
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\29-Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll" target="lib\net8.0\Inheritance.dll" />
+  </files>
+</package>
