@@ -13,7 +13,7 @@ namespace Ref_and_Out_keywords
             /*
              1-ref :- you must initalize the variable and assign a value to it before you use it with the ref, but you have the choice and option not to
              use the ref variable inside the method.
-             2-out :- you you have the option and choice to not assign a value to the out variable in the initalization time, but you must assign a value 
+             2-out :- you have the option and choice to not assign a value to the out variable in the initalization time, but you must assign a value 
              to it when using the out variable in the method.
              3-In all cases , :- ref and out keywords both of them pass by reference.
             */
