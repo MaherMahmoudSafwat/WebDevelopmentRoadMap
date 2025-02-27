@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Encapsulation</id>
+    <version>1.0.0</version>
+    <authors>Encapsulation</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="2142dc3da0ab5d6ee880a1bcc66e82207f206d05" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\28-Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json" target="lib\net8.0\Encapsulation.runtimeconfig.json" />
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\28-Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll" target="lib\net8.0\Encapsulation.dll" />
+  </files>
+</package>
