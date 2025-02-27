@@ -1,0 +1,169 @@
+What is OOP (Object-Oriented Programming)?
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code based on objects, which represent real-world entities like a car, person, or bank account.
+
+Instead of just writing a list of instructions (procedural programming), OOP structures code into objects that contain both data (attributes) and behavior (methods).
+
+🔹 Core Concepts of OOP
+1️⃣ Class & Object
+✅ Class → A blueprint/template for creating objects
+✅ Object → A real-world instance of a class
+
+Example:
+
+csharp
+Copy
+Edit
+// Class (Blueprint)
+public class Car  
+{  
+    public string Brand;   // Attribute
+    public void Start()    // Method
+    {
+        Console.WriteLine("Car is starting...");
+    }
+}
+
+// Object (Instance)
+Car myCar = new Car();
+myCar.Brand = "Tesla";
+myCar.Start();  // Output: Car is starting...
+2️⃣ Encapsulation (Data Hiding)
+🔹 Encapsulation restricts direct access to certain parts of an object and only allows controlled access through methods (getters/setters).
+
+Example:
+
+csharp
+Copy
+Edit
+public class BankAccount  
+{  
+    private double balance;  // Private data (Hidden)
+
+    public void Deposit(double amount)  
+    {  
+        balance += amount;  
+    }
+
+    public double GetBalance()  // Controlled access
+    {
+        return balance;
+    }
+}
+
+// Usage
+BankAccount acc = new BankAccount();
+acc.Deposit(1000);
+Console.WriteLine(acc.GetBalance());  // Output: 1000
+3️⃣ Inheritance (Code Reusability)
+🔹 Inheritance allows one class (child) to inherit properties & methods from another class (parent).
+
+Example:
+
+csharp
+Copy
+Edit
+// Parent Class
+public class Animal  
+{  
+    public void Eat()  
+    {  
+        Console.WriteLine("Animal is eating...");
+    }  
+}
+
+// Child Class (Inheriting from Animal)
+public class Dog : Animal  
+{  
+    public void Bark()  
+    {  
+        Console.WriteLine("Dog is barking...");
+    }  
+}
+
+// Usage
+Dog myDog = new Dog();
+myDog.Eat();  // Inherited Method
+myDog.Bark();
+4️⃣ Polymorphism (Multiple Forms)
+🔹 The ability of one method to behave differently based on the object type.
+
+There are two types of polymorphism:
+✔ Method Overloading (Same method name, different parameters)
+✔ Method Overriding (Child class changes parent’s method behavior)
+
+Example: Method Overriding
+
+csharp
+Copy
+Edit
+public class Animal  
+{  
+    public virtual void Speak()  
+    {  
+        Console.WriteLine("Animal is making a sound...");
+    }  
+}
+
+public class Dog : Animal  
+{  
+    public override void Speak()  
+    {  
+        Console.WriteLine("Dog is barking...");
+    }  
+}
+
+// Usage
+Animal myAnimal = new Dog();
+myAnimal.Speak();  // Output: Dog is barking...
+5️⃣ Abstraction (Hiding Complexity)
+🔹 Abstraction hides implementation details and only exposes necessary functionalities.
+
+✔ Abstract Classes → Can have both defined and undefined (abstract) methods.
+✔ Interfaces → Only contain method signatures; classes implementing the interface must define all methods.
+
+Example: Abstract Class
+
+csharp
+Copy
+Edit
+abstract class Shape  
+{  
+    public abstract void Draw();  // Abstract method (must be implemented)
+}
+
+class Circle : Shape  
+{  
+    public override void Draw()  
+    {  
+        Console.WriteLine("Drawing a Circle...");
+    }  
+}
+
+// Usage
+Shape shape = new Circle();
+shape.Draw();  // Output: Drawing a Circle...
+⏳ Life Before OOP (History & Evolution)
+Before OOP, programming was primarily procedural (like C, Assembly), where:
+✔ Code was written as a series of steps (functions)
+✔ Data and functions were separate
+✔ Hard to manage complex applications
+
+🚀 Evolution of Programming Paradigms
+1️⃣ Machine Language (1940s-1950s) – Binary code (0s & 1s)
+2️⃣ Assembly Language (1950s-1960s) – Low-level, processor-dependent
+3️⃣ Procedural Programming (1970s-1980s) – Structured functions (C, Pascal)
+4️⃣ Object-Oriented Programming (1980s-Present) – Real-world modeling (C++, Java, C#)
+
+First OOP Language?
+✅ Simula (1960s) – First OOP language
+✅ Smalltalk (1970s) – Popularized OOP
+✅ C++ (1983), Java (1995), C# (.NET - 2000s) – Modern OOP languages
+
+🎯 Why Use OOP? (Advantages)
+✅ Code Reusability (Inheritance)
+✅ Better Data Security (Encapsulation)
+✅ Flexibility & Scalability (Polymorphism)
+✅ Easier to Maintain & Debug
+
+💡 Conclusion
+OOP models real-world entities and makes programming more efficient, scalable, and secure. It is the foundation of modern software development, especially in .NET full-stack web development.

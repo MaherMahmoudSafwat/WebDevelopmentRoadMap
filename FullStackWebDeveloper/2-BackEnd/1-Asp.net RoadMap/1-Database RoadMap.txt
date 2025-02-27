@@ -1,0 +1,40 @@
+Database Basics
+What is a Database? (Relational vs. Non-relational)
+DBMS vs. RDBMS
+ACID Properties (Atomicity, Consistency, Isolation, Durability)
+Primary Key, Foreign Key, Composite Key
+2️⃣ SQL Fundamentals
+Writing SQL Queries (SELECT, INSERT, UPDATE, DELETE)
+Filtering (WHERE, ORDER BY, GROUP BY, HAVING)
+Joins (INNER, LEFT, RIGHT, FULL OUTER)
+Subqueries and Nested Queries
+3️⃣ Database Design & Normalization
+Entity-Relationship (ER) Diagrams
+Database Normalization (1NF, 2NF, 3NF, BCNF)
+Relationships (One-to-One, One-to-Many, Many-to-Many)
+4️⃣ Transactions & Concurrency Control
+Transactions (BEGIN TRAN, COMMIT, ROLLBACK)
+Isolation Levels (READ COMMITTED, SERIALIZABLE, etc.)
+Deadlocks and Locking
+5️⃣ Working with .NET & Databases
+Entity Framework Core (EF Core)
+Code-First vs. Database-First Approach
+LINQ Queries (LINQ to SQL, LINQ to Entities)
+Migrations (EF Core Migrations)
+Repository Pattern & Unit of Work
+6️⃣ Security & Best Practices
+SQL Injection & Prevention
+Role-Based Access Control (RBAC)
+Data Encryption (At-Rest & In-Transit)
+7️⃣ Database Deployment & Cloud Integration
+Hosting Databases on Azure SQL, AWS RDS, or Google Cloud SQL
+CI/CD for Database Schema Changes
+Backup & Recovery Strategies
+🔹 Optional but Useful Topics
+8️⃣ Performance Optimization
+Query Optimization & Execution Plans
+Indexing (Clustered vs. Non-clustered)
+Partitioning & Sharding
+9️⃣ NoSQL & Alternative Databases
+MongoDB, Redis, Cosmos DB
+When to Use NoSQL vs. SQL
