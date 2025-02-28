@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Polymorphism</id>
+    <version>1.0.0</version>
+    <authors>Polymorphism</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="fc91c28e53d5d92727f102b613cf2ff1d1b24bab" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\30-Polymorphism\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json" target="lib\net8.0\Polymorphism.runtimeconfig.json" />
+    <file src="C:\Users\Maher\Desktop\WebDevelopmentRoadMap\FullStackWebDeveloper\2-BackEnd\1-Asp.net RoadMap\2-OOP in CSharp\30-Polymorphism\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.dll" target="lib\net8.0\Polymorphism.dll" />
+  </files>
+</package>
