@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\gui\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|solutionrelative:gui\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\gui\\signupstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI.csproj|solutionrelative:gui\\signupstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\BusinessLogic.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\BusinessLogic.csproj|solutionrelative:hospitalfullproject\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\gui\\signupdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|solutionrelative:gui\\signupdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\gui\\signuppatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9903875C-4F96-46BD-9F9C-8DDA5A206BAB}|GUI\\GUI Screen.csproj|solutionrelative:gui\\signuppatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|solutionrelative:hospitalfullproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|solutionrelative:hospitalfullproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|solutionrelative:hospitalfullproject\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|solutionrelative:hospitalfullproject\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|c:\\users\\maher\\desktop\\webdevelopmentroadmap\\fullstackwebdeveloper\\2-backend\\1-asp.net roadmap\\2-oop in csharp\\32-hospital full basic project\\project1\\hospitalfullproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26A4BE7-8245-4BDF-8F0C-03946454EE93}|HospitalFullProject\\HospitalFullProject.csproj|solutionrelative:hospitalfullproject\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\MainMenuScreen.cs",
+              "RelativeDocumentMoniker": "GUI\\MainMenuScreen.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\MainMenuScreen.cs",
+              "RelativeToolTip": "GUI\\MainMenuScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:32:13.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpDoctor.cs",
+              "RelativeDocumentMoniker": "GUI\\SignUpDoctor.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpDoctor.cs",
+              "RelativeToolTip": "GUI\\SignUpDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:24:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpPatient.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpPatient.cs",
+              "RelativeDocumentMoniker": "GUI\\SignUpPatient.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpPatient.cs",
+              "RelativeToolTip": "GUI\\SignUpPatient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:22:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Utility.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Utility.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Utility.cs",
+              "RelativeToolTip": "HospitalFullProject\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:46:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpStaff.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpStaff.cs",
+              "RelativeDocumentMoniker": "GUI\\SignUpStaff.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\SignUpStaff.cs",
+              "RelativeToolTip": "GUI\\SignUpStaff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:19:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:18:35.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Patient.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Patient.cs",
+              "RelativeToolTip": "HospitalFullProject\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:13:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Doctor.cs",
+              "RelativeToolTip": "HospitalFullProject\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:13:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Staff.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Staff.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Staff.cs",
+              "RelativeToolTip": "HospitalFullProject\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:12:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Person.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Person.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Person.cs",
+              "RelativeToolTip": "HospitalFullProject\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:08:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalFullProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Maher\\Desktop\\WebDevelopmentRoadMap\\FullStackWebDeveloper\\2-BackEnd\\1-Asp.net RoadMap\\2-OOP in CSharp\\32-Hospital Full Basic Project\\Project1\\HospitalFullProject\\Program.cs",
+              "RelativeToolTip": "HospitalFullProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:06:33.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
